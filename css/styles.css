@@ -54,6 +54,7 @@ p {
 .topNavBar {
   text-align: right;
   margin-right: 40px;
+  padding: 20px;
 }
 
 .left-cloud {
